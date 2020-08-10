@@ -1,0 +1,7 @@
+C:\Gaby\BScCS\שנה ב\סמסטר ב\C#\מטלה 3\garage\Garage\Ex03.GarageLogic\bin\Debug\Ex03.GarageLogic.dll.config
+C:\Gaby\BScCS\שנה ב\סמסטר ב\C#\מטלה 3\garage\Garage\Ex03.GarageLogic\bin\Debug\Ex03.GarageLogic.dll
+C:\Gaby\BScCS\שנה ב\סמסטר ב\C#\מטלה 3\garage\Garage\Ex03.GarageLogic\bin\Debug\Ex03.GarageLogic.pdb
+C:\Gaby\BScCS\שנה ב\סמסטר ב\C#\מטלה 3\garage\Garage\Ex03.GarageLogic\obj\Debug\Ex03.GarageLogic.csprojAssemblyReference.cache
+C:\Gaby\BScCS\שנה ב\סמסטר ב\C#\מטלה 3\garage\Garage\Ex03.GarageLogic\obj\Debug\Ex03.GarageLogic.csproj.CoreCompileInputs.cache
+C:\Gaby\BScCS\שנה ב\סמסטר ב\C#\מטלה 3\garage\Garage\Ex03.GarageLogic\obj\Debug\Ex03.GarageLogic.dll
+C:\Gaby\BScCS\שנה ב\סמסטר ב\C#\מטלה 3\garage\Garage\Ex03.GarageLogic\obj\Debug\Ex03.GarageLogic.pdb
